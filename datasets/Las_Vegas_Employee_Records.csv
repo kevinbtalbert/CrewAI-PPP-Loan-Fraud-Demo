@@ -1,0 +1,1001 @@
+Employee_Name,Employer_Name,Position,Salary,Employment_Status
+David Miller,Elite Consulting 95,Cashier,66754,Terminated
+Jessica Johnson,Elite Consulting 18,Waiter,74358,Terminated
+Laura Hernandez,Silver State Contractors 52,Waiter,72812,Terminated
+John Brown,Sunrise Cafe 73,Cashier,66971,Resigned
+Daniel Smith,QuickFix Auto 24,Cashier,72917,Active
+Robert Garcia,Sunrise Cafe 77,Waiter,71723,Resigned
+Laura Davis,Elite Consulting 34,Technician,46007,Terminated
+Laura Martinez,Silver State Contractors 15,Waiter,45482,Terminated
+Jessica Davis,Vegas Retail Hub 50,Technician,54041,Terminated
+Jane Garcia,QuickFix Auto 96,Manager,77382,Active
+Emily Miller,QuickFix Auto 24,Waiter,43687,Terminated
+Sarah Smith,Silver State Contractors 32,Driver,58763,Resigned
+David Smith,Silver State Contractors 2,Cashier,38633,Resigned
+Emily Davis,QuickFix Auto 68,Driver,84690,Terminated
+Jessica Davis,Sunrise Cafe 49,Accountant,95165,Resigned
+Jane Smith,QuickFix Auto 42,Technician,32876,Terminated
+Robert Garcia,QuickFix Auto 73,Cashier,99302,Active
+David Jones,Elite Consulting 98,Accountant,72660,Resigned
+Daniel Garcia,Elite Consulting 30,Driver,83041,Terminated
+Sarah Hernandez,Sunrise Cafe 14,Accountant,70815,Resigned
+Jessica Martinez,Silver State Contractors 72,Accountant,96337,Active
+Daniel Brown,Silver State Contractors 8,Cashier,34848,Terminated
+Jessica Jones,Silver State Contractors 31,Accountant,61136,Resigned
+Daniel Johnson,Elite Consulting 72,Manager,52638,Active
+Jane Johnson,QuickFix Auto 28,Driver,56032,Resigned
+Michael Brown,Sunrise Cafe 29,Cashier,51182,Resigned
+Daniel Williams,QuickFix Auto 59,Manager,37474,Active
+Jessica Hernandez,QuickFix Auto 32,Waiter,54793,Terminated
+Robert Williams,Vegas Retail Hub 23,Technician,60077,Active
+Sarah Smith,Sunrise Cafe 17,Accountant,73506,Resigned
+Emily Williams,Elite Consulting 74,Waiter,63133,Resigned
+David Miller,Sunrise Cafe 27,Technician,39396,Terminated
+David Hernandez,QuickFix Auto 5,Driver,34391,Resigned
+Jane Davis,QuickFix Auto 15,Driver,78271,Terminated
+Laura Hernandez,QuickFix Auto 56,Waiter,59229,Resigned
+David Jones,Elite Consulting 25,Manager,40098,Terminated
+Daniel Davis,Sunrise Cafe 89,Cashier,64369,Terminated
+John Williams,Silver State Contractors 82,Cashier,83375,Terminated
+Robert Miller,Silver State Contractors 85,Driver,69806,Active
+Emily Smith,Silver State Contractors 48,Waiter,45885,Resigned
+Jane Smith,Elite Consulting 14,Technician,53082,Resigned
+Daniel Williams,Vegas Retail Hub 88,Accountant,93034,Terminated
+Jessica Williams,QuickFix Auto 63,Manager,63741,Resigned
+Daniel Hernandez,QuickFix Auto 95,Accountant,73395,Terminated
+Jane Brown,Silver State Contractors 54,Technician,73498,Active
+Jane Smith,QuickFix Auto 45,Manager,67656,Active
+David Johnson,Sunrise Cafe 90,Accountant,76673,Resigned
+Jessica Brown,Silver State Contractors 66,Cashier,37804,Active
+Sarah Williams,QuickFix Auto 69,Driver,56657,Active
+John Johnson,Silver State Contractors 33,Cashier,54758,Terminated
+Michael Martinez,Silver State Contractors 25,Manager,90632,Resigned
+John Johnson,Silver State Contractors 41,Cashier,84225,Resigned
+Robert Williams,Vegas Retail Hub 80,Cashier,89629,Terminated
+Emily Hernandez,QuickFix Auto 15,Technician,33294,Terminated
+Jessica Smith,Elite Consulting 92,Driver,42368,Resigned
+David Miller,Sunrise Cafe 67,Driver,60333,Active
+Jane Garcia,Elite Consulting 65,Waiter,49143,Terminated
+Robert Jones,Elite Consulting 66,Technician,36793,Resigned
+Laura Smith,Vegas Retail Hub 60,Driver,33152,Active
+John Davis,Sunrise Cafe 61,Driver,62898,Active
+Jessica Miller,Vegas Retail Hub 14,Technician,99543,Resigned
+Emily Smith,QuickFix Auto 32,Waiter,78145,Terminated
+Jane Miller,Vegas Retail Hub 66,Technician,61565,Resigned
+David Jones,Silver State Contractors 71,Driver,34837,Resigned
+John Smith,QuickFix Auto 85,Accountant,65387,Active
+Michael Williams,QuickFix Auto 8,Driver,32091,Terminated
+Jane Jones,Elite Consulting 25,Driver,90073,Terminated
+Emily Johnson,Sunrise Cafe 26,Accountant,40014,Terminated
+Michael Brown,QuickFix Auto 16,Waiter,87137,Terminated
+Daniel Jones,Sunrise Cafe 4,Waiter,82356,Resigned
+Jessica Jones,QuickFix Auto 81,Waiter,71102,Active
+Jessica Brown,QuickFix Auto 7,Manager,89178,Active
+Jane Hernandez,Sunrise Cafe 31,Cashier,69248,Active
+Jane Johnson,QuickFix Auto 46,Manager,56332,Resigned
+Daniel Johnson,Vegas Retail Hub 100,Waiter,83220,Active
+Emily Brown,Silver State Contractors 63,Waiter,81532,Resigned
+Emily Martinez,Silver State Contractors 3,Accountant,85783,Active
+Daniel Jones,Elite Consulting 70,Waiter,77754,Active
+Michael Miller,Sunrise Cafe 83,Accountant,43339,Terminated
+Emily Brown,Sunrise Cafe 40,Driver,66249,Resigned
+John Hernandez,Silver State Contractors 84,Manager,68240,Active
+Daniel Hernandez,Elite Consulting 51,Accountant,83070,Active
+Robert Miller,QuickFix Auto 39,Waiter,78115,Terminated
+Emily Miller,Silver State Contractors 83,Driver,64039,Active
+David Brown,Sunrise Cafe 11,Technician,69125,Resigned
+John Jones,Elite Consulting 88,Waiter,69075,Terminated
+Sarah Smith,Vegas Retail Hub 82,Waiter,50897,Resigned
+Sarah Johnson,Silver State Contractors 45,Accountant,57832,Terminated
+Sarah Garcia,QuickFix Auto 34,Cashier,44194,Resigned
+Sarah Miller,QuickFix Auto 36,Driver,92980,Active
+Robert Martinez,QuickFix Auto 14,Driver,41490,Terminated
+Emily Martinez,QuickFix Auto 96,Waiter,91865,Active
+Sarah Garcia,Vegas Retail Hub 31,Waiter,74253,Active
+Daniel Hernandez,Elite Consulting 52,Driver,80776,Active
+David Smith,Silver State Contractors 66,Technician,96720,Terminated
+John Smith,Sunrise Cafe 55,Waiter,85801,Resigned
+Robert Miller,QuickFix Auto 89,Cashier,80596,Terminated
+David Martinez,Elite Consulting 82,Manager,43530,Active
+Daniel Johnson,QuickFix Auto 67,Waiter,68464,Active
+Daniel Davis,Sunrise Cafe 67,Waiter,54737,Terminated
+Emily Brown,QuickFix Auto 52,Manager,65248,Terminated
+Jane Smith,Elite Consulting 19,Driver,46080,Active
+Robert Hernandez,Sunrise Cafe 23,Waiter,86208,Active
+Laura Hernandez,Silver State Contractors 76,Manager,66258,Active
+John Jones,Vegas Retail Hub 35,Manager,39007,Resigned
+Daniel Brown,QuickFix Auto 5,Driver,94843,Terminated
+Sarah Smith,Silver State Contractors 63,Waiter,42105,Resigned
+Laura Johnson,QuickFix Auto 3,Waiter,71385,Active
+Michael Brown,Elite Consulting 47,Driver,92920,Terminated
+Jessica Martinez,Elite Consulting 17,Cashier,45725,Resigned
+Laura Martinez,Elite Consulting 9,Technician,35386,Active
+Michael Williams,Vegas Retail Hub 9,Cashier,34467,Terminated
+Daniel Brown,Vegas Retail Hub 43,Accountant,44580,Terminated
+Robert Garcia,Vegas Retail Hub 9,Waiter,50256,Resigned
+Robert Hernandez,Sunrise Cafe 4,Technician,78440,Terminated
+David Miller,Silver State Contractors 90,Waiter,62920,Terminated
+Robert Garcia,Vegas Retail Hub 95,Waiter,95386,Active
+John Davis,Sunrise Cafe 13,Cashier,54852,Resigned
+John Brown,Sunrise Cafe 39,Cashier,94812,Resigned
+Jessica Smith,Silver State Contractors 92,Cashier,93510,Resigned
+Laura Miller,Silver State Contractors 77,Manager,47029,Resigned
+John Martinez,Silver State Contractors 32,Technician,51029,Resigned
+Emily Brown,QuickFix Auto 6,Driver,96339,Resigned
+John Hernandez,Silver State Contractors 33,Driver,54047,Active
+Michael Davis,Silver State Contractors 86,Accountant,55957,Terminated
+Daniel Johnson,QuickFix Auto 93,Technician,44625,Active
+Emily Martinez,QuickFix Auto 32,Driver,78193,Terminated
+Daniel Martinez,QuickFix Auto 44,Technician,41832,Terminated
+Sarah Williams,Elite Consulting 27,Waiter,75304,Resigned
+John Martinez,Vegas Retail Hub 83,Technician,65260,Active
+John Jones,Sunrise Cafe 100,Waiter,40159,Active
+Sarah Davis,Silver State Contractors 72,Waiter,37795,Terminated
+Jessica Smith,Elite Consulting 63,Driver,42802,Resigned
+John Miller,QuickFix Auto 11,Driver,66055,Terminated
+Sarah Davis,QuickFix Auto 77,Driver,68893,Terminated
+Emily Brown,Elite Consulting 21,Accountant,60241,Active
+Michael Hernandez,QuickFix Auto 4,Cashier,83682,Active
+Jane Smith,Vegas Retail Hub 79,Waiter,45583,Active
+John Davis,Silver State Contractors 63,Driver,30640,Resigned
+Laura Garcia,QuickFix Auto 30,Accountant,86711,Terminated
+John Brown,Vegas Retail Hub 57,Technician,61844,Terminated
+Sarah Williams,QuickFix Auto 9,Manager,79689,Resigned
+David Martinez,Sunrise Cafe 83,Cashier,98591,Terminated
+Michael Johnson,Elite Consulting 56,Cashier,98641,Terminated
+Daniel Williams,Vegas Retail Hub 36,Technician,69877,Resigned
+Jane Davis,Sunrise Cafe 100,Technician,62735,Terminated
+Daniel Martinez,Elite Consulting 16,Driver,58006,Terminated
+Michael Hernandez,Elite Consulting 8,Waiter,62579,Terminated
+Michael Miller,Vegas Retail Hub 97,Driver,65089,Active
+John Hernandez,Silver State Contractors 99,Driver,63387,Active
+Emily Hernandez,Sunrise Cafe 84,Driver,91837,Terminated
+Jane Jones,Silver State Contractors 33,Waiter,39273,Resigned
+Robert Miller,Silver State Contractors 68,Manager,52360,Active
+Daniel Martinez,Sunrise Cafe 61,Driver,90356,Active
+Michael Hernandez,Silver State Contractors 100,Driver,61663,Active
+Sarah Jones,Sunrise Cafe 47,Driver,56971,Terminated
+Emily Johnson,Sunrise Cafe 67,Driver,76045,Resigned
+Robert Brown,Sunrise Cafe 55,Technician,36200,Resigned
+Jessica Johnson,QuickFix Auto 28,Waiter,84165,Resigned
+Emily Williams,Silver State Contractors 16,Waiter,39557,Resigned
+Daniel Jones,Vegas Retail Hub 23,Cashier,54843,Active
+Michael Garcia,Silver State Contractors 46,Accountant,73097,Resigned
+Robert Johnson,QuickFix Auto 80,Accountant,53202,Resigned
+Emily Johnson,Elite Consulting 14,Driver,99729,Active
+Laura Williams,QuickFix Auto 79,Technician,89141,Terminated
+Jane Miller,Silver State Contractors 9,Cashier,57102,Active
+David Hernandez,Vegas Retail Hub 71,Driver,57693,Resigned
+Robert Williams,Elite Consulting 65,Cashier,82218,Terminated
+Michael Miller,Elite Consulting 34,Waiter,63406,Resigned
+Sarah Smith,Sunrise Cafe 71,Waiter,58992,Resigned
+Jessica Martinez,Elite Consulting 76,Driver,56115,Resigned
+Emily Johnson,Vegas Retail Hub 51,Cashier,77781,Terminated
+Michael Miller,Sunrise Cafe 74,Technician,85921,Resigned
+Sarah Garcia,Vegas Retail Hub 16,Waiter,80436,Terminated
+Robert Brown,Vegas Retail Hub 63,Cashier,88737,Active
+Emily Brown,Sunrise Cafe 18,Driver,87440,Resigned
+Michael Johnson,QuickFix Auto 22,Driver,68674,Resigned
+Jane Davis,QuickFix Auto 12,Cashier,89564,Resigned
+John Smith,Silver State Contractors 98,Accountant,85187,Active
+Sarah Garcia,Silver State Contractors 43,Driver,92349,Active
+Daniel Brown,Sunrise Cafe 26,Waiter,61041,Terminated
+Jessica Miller,Vegas Retail Hub 38,Technician,63808,Terminated
+Laura Garcia,Vegas Retail Hub 80,Manager,35484,Terminated
+Laura Johnson,Vegas Retail Hub 46,Cashier,30384,Terminated
+David Brown,QuickFix Auto 97,Cashier,97782,Resigned
+Jane Jones,Vegas Retail Hub 13,Technician,53984,Active
+Jane Smith,Vegas Retail Hub 87,Cashier,83359,Terminated
+Daniel Garcia,QuickFix Auto 58,Waiter,70696,Resigned
+Daniel Hernandez,Silver State Contractors 8,Driver,39105,Active
+Robert Martinez,Elite Consulting 31,Cashier,41886,Terminated
+Robert Johnson,Elite Consulting 49,Cashier,72344,Resigned
+Laura Garcia,Vegas Retail Hub 20,Waiter,59515,Terminated
+Robert Smith,Vegas Retail Hub 95,Accountant,32501,Active
+Jane Smith,Elite Consulting 17,Cashier,73729,Resigned
+Michael Williams,Silver State Contractors 35,Cashier,81355,Active
+John Davis,QuickFix Auto 60,Driver,57659,Resigned
+Robert Smith,Vegas Retail Hub 98,Cashier,53098,Resigned
+David Brown,Vegas Retail Hub 77,Manager,50879,Resigned
+John Davis,QuickFix Auto 61,Waiter,36123,Terminated
+Daniel Smith,Elite Consulting 10,Waiter,40812,Active
+Emily Martinez,QuickFix Auto 43,Technician,39827,Resigned
+Jane Brown,Elite Consulting 45,Waiter,65983,Active
+Michael Williams,Silver State Contractors 84,Waiter,44967,Active
+Sarah Smith,Elite Consulting 92,Accountant,75560,Active
+John Hernandez,Silver State Contractors 19,Accountant,85053,Resigned
+Robert Williams,Silver State Contractors 42,Waiter,54318,Active
+Robert Johnson,Silver State Contractors 77,Cashier,99793,Terminated
+Jessica Johnson,Elite Consulting 94,Waiter,60680,Resigned
+Michael Smith,Sunrise Cafe 46,Cashier,95157,Active
+Michael Hernandez,Silver State Contractors 99,Waiter,63256,Active
+John Hernandez,Silver State Contractors 16,Technician,85424,Active
+Robert Miller,Vegas Retail Hub 64,Accountant,90044,Active
+John Hernandez,Vegas Retail Hub 5,Technician,50019,Terminated
+Laura Williams,Elite Consulting 29,Accountant,64352,Terminated
+Robert Martinez,QuickFix Auto 29,Waiter,55217,Resigned
+Michael Hernandez,Elite Consulting 68,Manager,53638,Active
+Michael Jones,Vegas Retail Hub 86,Driver,91455,Resigned
+Jessica Hernandez,Sunrise Cafe 22,Technician,93209,Active
+David Garcia,Silver State Contractors 22,Technician,79517,Resigned
+Michael Hernandez,Sunrise Cafe 84,Cashier,57795,Active
+Jane Davis,Vegas Retail Hub 92,Cashier,97018,Active
+Emily Garcia,Sunrise Cafe 41,Driver,40657,Resigned
+Emily Williams,Silver State Contractors 80,Manager,30357,Active
+Jessica Garcia,Sunrise Cafe 68,Manager,74528,Active
+John Williams,Vegas Retail Hub 20,Technician,87827,Resigned
+Jane Johnson,Silver State Contractors 22,Cashier,77332,Resigned
+Emily Martinez,QuickFix Auto 8,Accountant,83606,Resigned
+David Jones,Sunrise Cafe 92,Manager,99167,Active
+Sarah Hernandez,Sunrise Cafe 90,Driver,53982,Active
+Emily Martinez,Vegas Retail Hub 68,Manager,96759,Resigned
+Daniel Miller,QuickFix Auto 54,Driver,40633,Resigned
+David Hernandez,Vegas Retail Hub 82,Driver,85312,Resigned
+Laura Johnson,Sunrise Cafe 23,Manager,57143,Terminated
+John Brown,Silver State Contractors 59,Waiter,78847,Active
+Daniel Johnson,Elite Consulting 48,Cashier,59303,Resigned
+Emily Davis,Vegas Retail Hub 4,Waiter,48413,Terminated
+John Hernandez,Elite Consulting 46,Driver,38863,Terminated
+Michael Martinez,Elite Consulting 78,Manager,38867,Active
+Jane Smith,Vegas Retail Hub 68,Manager,34834,Active
+Robert Davis,Elite Consulting 30,Waiter,47295,Active
+Robert Williams,Silver State Contractors 24,Cashier,77842,Terminated
+Daniel Garcia,Elite Consulting 82,Waiter,41512,Terminated
+Sarah Williams,Vegas Retail Hub 9,Waiter,74857,Active
+Laura Williams,Elite Consulting 22,Driver,89542,Resigned
+David Jones,Silver State Contractors 35,Driver,44974,Terminated
+Jane Martinez,Elite Consulting 13,Cashier,65084,Resigned
+Michael Johnson,Silver State Contractors 35,Accountant,65453,Resigned
+Robert Hernandez,Silver State Contractors 9,Manager,69167,Active
+Daniel Jones,Vegas Retail Hub 92,Driver,85306,Resigned
+Daniel Miller,Vegas Retail Hub 26,Driver,90653,Resigned
+Robert Smith,Sunrise Cafe 40,Technician,68620,Active
+Laura Brown,QuickFix Auto 51,Manager,59588,Terminated
+John Williams,Vegas Retail Hub 16,Accountant,49861,Terminated
+Daniel Hernandez,Silver State Contractors 41,Driver,31584,Terminated
+Sarah Smith,QuickFix Auto 85,Accountant,31222,Active
+Laura Martinez,Elite Consulting 44,Cashier,51517,Resigned
+Emily Johnson,Sunrise Cafe 84,Manager,75501,Active
+Jessica Martinez,Sunrise Cafe 7,Manager,65610,Terminated
+Sarah Johnson,Sunrise Cafe 77,Accountant,61941,Active
+Jane Johnson,QuickFix Auto 23,Driver,51140,Terminated
+Daniel Jones,Sunrise Cafe 99,Manager,60006,Terminated
+Jessica Brown,Silver State Contractors 48,Technician,65764,Resigned
+Sarah Martinez,Sunrise Cafe 54,Cashier,52094,Terminated
+Jessica Davis,Elite Consulting 17,Driver,79962,Terminated
+Jessica Davis,Silver State Contractors 5,Accountant,56227,Resigned
+John Garcia,QuickFix Auto 57,Accountant,94851,Active
+Daniel Garcia,Elite Consulting 93,Cashier,31882,Active
+Daniel Martinez,Elite Consulting 61,Cashier,50437,Active
+Sarah Johnson,Silver State Contractors 14,Manager,65005,Active
+David Jones,Sunrise Cafe 40,Technician,48421,Active
+Sarah Davis,QuickFix Auto 45,Cashier,66806,Active
+Sarah Smith,Sunrise Cafe 13,Cashier,61261,Terminated
+Jane Brown,Sunrise Cafe 99,Technician,82579,Resigned
+John Miller,Sunrise Cafe 26,Accountant,75692,Active
+Emily Johnson,Elite Consulting 40,Accountant,61962,Terminated
+John Garcia,Silver State Contractors 60,Waiter,36059,Resigned
+Emily Johnson,Sunrise Cafe 88,Technician,92792,Active
+Jane Martinez,Vegas Retail Hub 32,Cashier,95986,Terminated
+Jessica Hernandez,Silver State Contractors 60,Technician,82993,Resigned
+Robert Williams,Elite Consulting 80,Technician,49090,Active
+Michael Martinez,Vegas Retail Hub 89,Accountant,50781,Resigned
+Sarah Martinez,Silver State Contractors 15,Manager,77939,Resigned
+Laura Miller,Sunrise Cafe 69,Cashier,44755,Active
+Jessica Davis,Vegas Retail Hub 43,Technician,30199,Terminated
+Jessica Hernandez,QuickFix Auto 98,Driver,80542,Terminated
+Sarah Garcia,Vegas Retail Hub 75,Waiter,54604,Active
+Robert Williams,Vegas Retail Hub 78,Waiter,37105,Terminated
+Sarah Hernandez,Elite Consulting 75,Manager,95674,Active
+David Martinez,Silver State Contractors 51,Accountant,40268,Active
+John Williams,Silver State Contractors 29,Cashier,91924,Terminated
+Robert Miller,Silver State Contractors 54,Technician,92879,Terminated
+Robert Jones,Vegas Retail Hub 72,Driver,81862,Active
+Sarah Smith,Silver State Contractors 90,Waiter,65935,Terminated
+Sarah Johnson,Elite Consulting 91,Driver,76429,Resigned
+Daniel Johnson,Sunrise Cafe 51,Manager,43495,Active
+Robert Martinez,Silver State Contractors 17,Manager,65727,Terminated
+Michael Garcia,Vegas Retail Hub 57,Waiter,79769,Active
+Robert Hernandez,Vegas Retail Hub 92,Waiter,49651,Active
+Robert Hernandez,Elite Consulting 18,Waiter,70681,Resigned
+Laura Garcia,Elite Consulting 33,Waiter,75027,Terminated
+John Davis,Sunrise Cafe 73,Waiter,65146,Terminated
+John Martinez,Vegas Retail Hub 88,Manager,50029,Resigned
+Sarah Brown,Silver State Contractors 90,Cashier,74398,Resigned
+Robert Jones,Elite Consulting 38,Driver,43090,Resigned
+David Hernandez,QuickFix Auto 70,Accountant,79571,Active
+Jessica Davis,Vegas Retail Hub 90,Technician,82445,Resigned
+David Williams,Vegas Retail Hub 86,Accountant,60370,Terminated
+Laura Davis,Silver State Contractors 50,Accountant,40645,Resigned
+Jane Johnson,Sunrise Cafe 52,Technician,97823,Resigned
+Michael Brown,Sunrise Cafe 5,Waiter,40319,Active
+Jane Hernandez,Sunrise Cafe 1,Accountant,77887,Terminated
+Emily Johnson,QuickFix Auto 23,Technician,60464,Terminated
+Michael Hernandez,Silver State Contractors 84,Accountant,86818,Resigned
+Jane Smith,Elite Consulting 89,Technician,53341,Terminated
+Daniel Williams,Silver State Contractors 52,Technician,87397,Terminated
+Laura Miller,Elite Consulting 63,Accountant,52402,Active
+David Martinez,QuickFix Auto 19,Accountant,53356,Resigned
+Robert Garcia,Sunrise Cafe 3,Manager,65790,Active
+Jane Brown,Silver State Contractors 82,Driver,83896,Active
+Laura Garcia,Vegas Retail Hub 22,Waiter,35158,Active
+Daniel Smith,Silver State Contractors 21,Technician,59061,Active
+Daniel Hernandez,Elite Consulting 70,Driver,50473,Terminated
+Jane Jones,Silver State Contractors 94,Driver,82950,Resigned
+David Martinez,Elite Consulting 55,Manager,44700,Resigned
+Laura Miller,QuickFix Auto 95,Waiter,32515,Resigned
+Jane Brown,Sunrise Cafe 83,Manager,48071,Resigned
+Sarah Smith,QuickFix Auto 80,Manager,96374,Resigned
+Sarah Brown,Silver State Contractors 77,Cashier,70493,Resigned
+Jessica Garcia,QuickFix Auto 84,Cashier,76981,Active
+Sarah Brown,QuickFix Auto 44,Accountant,94846,Active
+Emily Davis,Vegas Retail Hub 11,Cashier,88712,Active
+Sarah Johnson,QuickFix Auto 17,Cashier,51659,Active
+Laura Smith,Vegas Retail Hub 79,Accountant,73781,Active
+Laura Brown,Silver State Contractors 21,Manager,51881,Active
+Jessica Johnson,QuickFix Auto 39,Cashier,70014,Active
+Robert Williams,Vegas Retail Hub 89,Driver,85897,Active
+Jessica Hernandez,Vegas Retail Hub 61,Accountant,51185,Resigned
+David Miller,Sunrise Cafe 81,Manager,58782,Active
+Jessica Hernandez,Sunrise Cafe 48,Cashier,41491,Terminated
+Laura Garcia,Vegas Retail Hub 43,Waiter,93813,Terminated
+Robert Davis,Vegas Retail Hub 76,Cashier,86875,Terminated
+David Jones,Vegas Retail Hub 84,Manager,42632,Resigned
+John Garcia,Elite Consulting 77,Manager,46034,Terminated
+Jane Garcia,Elite Consulting 32,Driver,64733,Active
+Laura Smith,QuickFix Auto 63,Waiter,99931,Terminated
+David Brown,Silver State Contractors 79,Accountant,88411,Terminated
+Jane Johnson,QuickFix Auto 81,Accountant,66564,Active
+Sarah Martinez,Elite Consulting 95,Cashier,78510,Resigned
+Jessica Brown,Elite Consulting 71,Driver,83031,Resigned
+Daniel Miller,QuickFix Auto 83,Driver,36897,Terminated
+David Johnson,Silver State Contractors 28,Waiter,76653,Terminated
+Jane Smith,Vegas Retail Hub 47,Cashier,38996,Terminated
+David Miller,Silver State Contractors 75,Accountant,76379,Terminated
+Michael Smith,QuickFix Auto 48,Accountant,51562,Terminated
+Jane Smith,Sunrise Cafe 80,Driver,71347,Resigned
+David Davis,Silver State Contractors 35,Manager,72297,Terminated
+Jane Brown,Sunrise Cafe 82,Accountant,46920,Resigned
+Jessica Johnson,QuickFix Auto 73,Driver,99266,Resigned
+Daniel Jones,QuickFix Auto 16,Manager,42470,Resigned
+Robert Hernandez,QuickFix Auto 85,Accountant,32659,Resigned
+Jane Smith,Elite Consulting 81,Driver,36731,Terminated
+Jessica Garcia,Silver State Contractors 22,Manager,73342,Resigned
+Emily Martinez,QuickFix Auto 58,Driver,86207,Resigned
+Emily Martinez,Sunrise Cafe 36,Accountant,37199,Resigned
+David Miller,Elite Consulting 9,Accountant,44464,Terminated
+Daniel Williams,Silver State Contractors 65,Cashier,62389,Active
+Laura Garcia,QuickFix Auto 48,Accountant,50147,Resigned
+Laura Williams,QuickFix Auto 28,Waiter,34711,Resigned
+Sarah Martinez,Elite Consulting 75,Manager,65962,Resigned
+Jessica Brown,Elite Consulting 96,Driver,43942,Active
+Laura Jones,Silver State Contractors 47,Cashier,64570,Resigned
+Laura Garcia,QuickFix Auto 38,Accountant,64714,Resigned
+David Smith,Vegas Retail Hub 58,Accountant,30994,Resigned
+Michael Smith,QuickFix Auto 69,Manager,45481,Terminated
+John Hernandez,Elite Consulting 2,Cashier,84360,Resigned
+Jessica Brown,Silver State Contractors 92,Waiter,63167,Terminated
+Daniel Martinez,Sunrise Cafe 75,Accountant,71185,Terminated
+Robert Williams,Elite Consulting 56,Waiter,38675,Resigned
+John Davis,Vegas Retail Hub 10,Cashier,46113,Terminated
+Michael Garcia,QuickFix Auto 12,Technician,45178,Active
+John Johnson,Elite Consulting 4,Waiter,60526,Resigned
+David Williams,Elite Consulting 73,Cashier,75414,Terminated
+John Miller,Vegas Retail Hub 44,Driver,33325,Resigned
+Jessica Williams,Sunrise Cafe 68,Driver,53215,Terminated
+Sarah Miller,Silver State Contractors 10,Driver,41171,Resigned
+Jane Johnson,Elite Consulting 67,Cashier,79154,Terminated
+David Johnson,Silver State Contractors 95,Driver,59676,Terminated
+David Brown,Silver State Contractors 21,Cashier,76429,Active
+Michael Davis,Elite Consulting 62,Cashier,84239,Terminated
+David Smith,Vegas Retail Hub 65,Driver,86974,Active
+Daniel Garcia,QuickFix Auto 99,Driver,33482,Terminated
+Jessica Garcia,Silver State Contractors 15,Cashier,93773,Resigned
+Sarah Garcia,Silver State Contractors 12,Cashier,55748,Active
+Laura Williams,Elite Consulting 46,Manager,63336,Terminated
+David Brown,Elite Consulting 91,Technician,81229,Terminated
+Jane Miller,Vegas Retail Hub 39,Driver,57181,Terminated
+Jane Martinez,QuickFix Auto 9,Waiter,57107,Resigned
+Robert Davis,Silver State Contractors 83,Driver,68593,Resigned
+Jessica Jones,Elite Consulting 55,Waiter,85691,Active
+Emily Martinez,Sunrise Cafe 47,Waiter,71281,Resigned
+John Garcia,QuickFix Auto 78,Waiter,75997,Active
+John Jones,Silver State Contractors 18,Manager,74470,Terminated
+Laura Garcia,Elite Consulting 82,Cashier,87114,Terminated
+Jessica Miller,Sunrise Cafe 89,Driver,52217,Terminated
+Laura Davis,Vegas Retail Hub 78,Cashier,95910,Resigned
+Jessica Davis,Elite Consulting 78,Waiter,32794,Resigned
+Michael Davis,Sunrise Cafe 63,Cashier,80446,Active
+Jane Hernandez,Vegas Retail Hub 15,Driver,89695,Resigned
+Michael Martinez,QuickFix Auto 30,Driver,35784,Resigned
+Laura Jones,Elite Consulting 99,Waiter,76265,Active
+Laura Smith,Sunrise Cafe 88,Cashier,92286,Resigned
+David Miller,Elite Consulting 3,Manager,36126,Active
+Sarah Hernandez,Vegas Retail Hub 7,Manager,51890,Active
+Daniel Martinez,Vegas Retail Hub 57,Driver,66836,Resigned
+Robert Jones,Vegas Retail Hub 71,Accountant,43539,Terminated
+David Johnson,Vegas Retail Hub 98,Cashier,65227,Resigned
+Daniel Davis,Elite Consulting 94,Driver,56396,Resigned
+Michael Jones,QuickFix Auto 89,Driver,67773,Resigned
+Jane Johnson,Silver State Contractors 70,Accountant,93668,Resigned
+Jane Hernandez,Sunrise Cafe 44,Manager,44737,Terminated
+Sarah Johnson,Elite Consulting 4,Cashier,62606,Resigned
+Laura Smith,Sunrise Cafe 30,Driver,97461,Resigned
+Sarah Johnson,QuickFix Auto 53,Cashier,90234,Active
+John Johnson,Silver State Contractors 15,Driver,99717,Resigned
+Robert Miller,Silver State Contractors 63,Manager,64017,Active
+Robert Hernandez,Sunrise Cafe 40,Cashier,72663,Active
+Jane Davis,QuickFix Auto 79,Waiter,63633,Active
+Laura Miller,Silver State Contractors 17,Cashier,63347,Active
+David Brown,QuickFix Auto 49,Waiter,94978,Resigned
+Michael Davis,Vegas Retail Hub 97,Manager,53773,Active
+John Smith,QuickFix Auto 8,Driver,95090,Resigned
+Emily Hernandez,QuickFix Auto 73,Manager,85491,Terminated
+Jane Jones,Sunrise Cafe 40,Driver,88823,Terminated
+Jessica Hernandez,Sunrise Cafe 58,Waiter,89181,Terminated
+Michael Jones,QuickFix Auto 52,Manager,42717,Active
+Jessica Miller,Sunrise Cafe 73,Cashier,64312,Active
+David Brown,Silver State Contractors 63,Cashier,74340,Terminated
+Daniel Martinez,Sunrise Cafe 72,Technician,82324,Resigned
+David Martinez,Vegas Retail Hub 76,Accountant,78886,Resigned
+Jane Miller,Vegas Retail Hub 93,Cashier,92187,Active
+Robert Miller,Sunrise Cafe 35,Waiter,72284,Active
+Jane Davis,Elite Consulting 79,Manager,50987,Active
+David Jones,Elite Consulting 34,Technician,95747,Active
+Jessica Davis,Vegas Retail Hub 65,Manager,65522,Resigned
+Emily Smith,Elite Consulting 32,Technician,88045,Active
+Laura Smith,QuickFix Auto 87,Cashier,96830,Active
+Jane Brown,Silver State Contractors 10,Cashier,94110,Active
+Emily Smith,Vegas Retail Hub 50,Cashier,72713,Resigned
+Robert Johnson,Vegas Retail Hub 31,Manager,64674,Terminated
+John Hernandez,Elite Consulting 39,Accountant,81028,Active
+Daniel Miller,QuickFix Auto 9,Manager,81922,Resigned
+Daniel Davis,Sunrise Cafe 20,Accountant,35472,Resigned
+Daniel Brown,Sunrise Cafe 82,Technician,51919,Terminated
+Michael Johnson,Silver State Contractors 22,Accountant,44690,Active
+Emily Jones,Vegas Retail Hub 3,Manager,62539,Resigned
+Laura Hernandez,Sunrise Cafe 47,Manager,87619,Resigned
+John Hernandez,Elite Consulting 57,Manager,54596,Resigned
+David Smith,Vegas Retail Hub 47,Driver,64698,Resigned
+Robert Martinez,QuickFix Auto 52,Driver,38636,Active
+David Davis,Elite Consulting 58,Accountant,31811,Terminated
+Robert Martinez,Silver State Contractors 10,Technician,47237,Active
+Emily Martinez,Elite Consulting 45,Technician,50449,Active
+Jessica Miller,Vegas Retail Hub 65,Manager,84786,Active
+Laura Brown,Vegas Retail Hub 55,Driver,71229,Terminated
+Emily Brown,QuickFix Auto 76,Driver,51838,Active
+Jessica Brown,Sunrise Cafe 30,Manager,39549,Active
+David Davis,QuickFix Auto 96,Accountant,95011,Resigned
+David Williams,Vegas Retail Hub 22,Accountant,40825,Resigned
+Daniel Brown,QuickFix Auto 64,Technician,99494,Active
+Emily Williams,Vegas Retail Hub 21,Technician,30201,Resigned
+Michael Jones,Elite Consulting 91,Driver,96533,Resigned
+Sarah Garcia,QuickFix Auto 15,Accountant,82278,Terminated
+Robert Miller,Sunrise Cafe 26,Waiter,94910,Terminated
+Michael Smith,Elite Consulting 42,Driver,97397,Active
+Daniel Jones,QuickFix Auto 12,Cashier,85416,Terminated
+David Martinez,QuickFix Auto 45,Waiter,95267,Terminated
+David Williams,QuickFix Auto 89,Manager,72120,Resigned
+David Jones,Silver State Contractors 32,Manager,33418,Resigned
+David Martinez,Silver State Contractors 12,Cashier,87214,Terminated
+Daniel Williams,Elite Consulting 82,Waiter,69706,Active
+Jane Garcia,Elite Consulting 46,Driver,99029,Resigned
+Emily Brown,Silver State Contractors 60,Technician,51510,Resigned
+Daniel Smith,Silver State Contractors 44,Driver,52024,Resigned
+Emily Hernandez,QuickFix Auto 9,Technician,60977,Terminated
+Daniel Hernandez,Vegas Retail Hub 71,Manager,55485,Active
+Emily Martinez,Vegas Retail Hub 73,Driver,34668,Terminated
+Sarah Hernandez,Sunrise Cafe 66,Cashier,54478,Resigned
+John Davis,QuickFix Auto 43,Driver,86646,Resigned
+David Hernandez,Vegas Retail Hub 51,Manager,69692,Terminated
+Daniel Miller,Elite Consulting 63,Waiter,98198,Active
+Emily Garcia,Silver State Contractors 96,Waiter,83324,Terminated
+Sarah Miller,QuickFix Auto 49,Manager,62980,Resigned
+Jane Miller,Sunrise Cafe 1,Waiter,46577,Resigned
+Daniel Martinez,Silver State Contractors 77,Cashier,77068,Terminated
+David Jones,Sunrise Cafe 1,Cashier,58383,Terminated
+Emily Brown,Sunrise Cafe 37,Accountant,68531,Terminated
+Sarah Brown,Elite Consulting 7,Waiter,49599,Active
+Laura Johnson,Sunrise Cafe 93,Accountant,83788,Resigned
+John Smith,Elite Consulting 58,Cashier,77873,Terminated
+Jane Davis,QuickFix Auto 4,Cashier,32280,Terminated
+Laura Hernandez,Sunrise Cafe 67,Manager,54329,Active
+Daniel Johnson,Vegas Retail Hub 36,Waiter,79167,Active
+John Garcia,Vegas Retail Hub 10,Technician,94375,Active
+Jane Davis,Silver State Contractors 10,Manager,75380,Terminated
+Daniel Garcia,Elite Consulting 98,Technician,78905,Resigned
+Laura Brown,Vegas Retail Hub 78,Waiter,58943,Active
+Robert Miller,Elite Consulting 79,Technician,34226,Resigned
+David Williams,Sunrise Cafe 60,Cashier,52492,Terminated
+Jane Smith,QuickFix Auto 74,Waiter,99651,Active
+Laura Hernandez,Sunrise Cafe 18,Driver,77635,Active
+Michael Brown,Silver State Contractors 26,Driver,37490,Terminated
+Laura Johnson,Sunrise Cafe 79,Waiter,99446,Active
+Jessica Miller,QuickFix Auto 75,Driver,76660,Resigned
+Laura Davis,Sunrise Cafe 61,Driver,48236,Active
+Michael Brown,Elite Consulting 46,Manager,65934,Resigned
+John Davis,Silver State Contractors 88,Driver,97037,Terminated
+John Brown,Sunrise Cafe 91,Accountant,95165,Terminated
+Robert Williams,QuickFix Auto 97,Waiter,36998,Resigned
+Sarah Davis,Sunrise Cafe 12,Manager,56841,Active
+Jessica Johnson,Vegas Retail Hub 3,Cashier,88682,Terminated
+David Jones,Elite Consulting 97,Technician,52906,Active
+John Hernandez,Silver State Contractors 7,Driver,77484,Resigned
+David Johnson,Vegas Retail Hub 56,Waiter,96523,Terminated
+Jessica Hernandez,QuickFix Auto 35,Manager,30560,Resigned
+John Williams,Silver State Contractors 71,Manager,65134,Active
+Robert Brown,Silver State Contractors 81,Technician,39174,Resigned
+John Jones,Silver State Contractors 50,Technician,62132,Resigned
+Emily Johnson,Vegas Retail Hub 71,Cashier,73436,Active
+Jessica Johnson,Silver State Contractors 91,Technician,47332,Terminated
+Laura Williams,QuickFix Auto 31,Driver,77048,Resigned
+Daniel Hernandez,Elite Consulting 81,Accountant,81613,Resigned
+David Martinez,Vegas Retail Hub 80,Manager,66054,Active
+John Miller,Sunrise Cafe 33,Technician,58329,Terminated
+Emily Johnson,Elite Consulting 44,Accountant,36449,Resigned
+David Williams,QuickFix Auto 91,Accountant,51477,Active
+David Davis,Vegas Retail Hub 3,Driver,30259,Active
+John Jones,Vegas Retail Hub 78,Manager,34607,Active
+Robert Williams,Elite Consulting 66,Manager,49069,Resigned
+Michael Martinez,Sunrise Cafe 95,Accountant,48167,Active
+Michael Miller,Sunrise Cafe 73,Waiter,98165,Terminated
+Robert Martinez,Sunrise Cafe 39,Driver,77669,Terminated
+Laura Martinez,Elite Consulting 30,Accountant,84563,Resigned
+David Martinez,Elite Consulting 5,Driver,40077,Terminated
+John Williams,Vegas Retail Hub 43,Waiter,78386,Terminated
+Jessica Brown,Elite Consulting 73,Technician,63373,Active
+John Miller,Silver State Contractors 27,Waiter,89209,Active
+Robert Williams,Sunrise Cafe 10,Accountant,55862,Resigned
+Sarah Williams,QuickFix Auto 57,Driver,58989,Terminated
+Robert Brown,Vegas Retail Hub 28,Driver,39656,Terminated
+Emily Brown,Silver State Contractors 23,Technician,78995,Active
+Jane Garcia,Sunrise Cafe 33,Waiter,88443,Active
+Sarah Brown,Vegas Retail Hub 85,Manager,42558,Terminated
+Michael Brown,QuickFix Auto 90,Accountant,61231,Terminated
+Michael Miller,Vegas Retail Hub 22,Technician,39849,Resigned
+Jane Williams,Silver State Contractors 68,Cashier,51765,Resigned
+Sarah Williams,Vegas Retail Hub 97,Cashier,51156,Resigned
+Emily Williams,Silver State Contractors 87,Waiter,58207,Resigned
+Robert Martinez,Vegas Retail Hub 49,Driver,56207,Resigned
+Jane Martinez,Vegas Retail Hub 49,Manager,89536,Terminated
+Emily Garcia,Sunrise Cafe 99,Cashier,59856,Terminated
+John Garcia,Vegas Retail Hub 19,Accountant,84113,Resigned
+Daniel Miller,Vegas Retail Hub 15,Cashier,69329,Active
+Daniel Jones,Vegas Retail Hub 39,Waiter,79402,Resigned
+Michael Jones,Silver State Contractors 5,Manager,49143,Terminated
+David Brown,QuickFix Auto 92,Cashier,76334,Terminated
+Robert Martinez,Sunrise Cafe 30,Driver,96569,Terminated
+Jane Johnson,Sunrise Cafe 37,Manager,71532,Terminated
+Jane Brown,Silver State Contractors 59,Driver,46172,Resigned
+Jessica Martinez,Vegas Retail Hub 92,Driver,74569,Terminated
+Jane Jones,QuickFix Auto 10,Accountant,33391,Active
+David Jones,Elite Consulting 65,Driver,46123,Resigned
+John Davis,Vegas Retail Hub 90,Accountant,69133,Resigned
+Emily Miller,QuickFix Auto 62,Driver,84199,Resigned
+Jane Johnson,Vegas Retail Hub 37,Waiter,55589,Resigned
+David Martinez,Sunrise Cafe 30,Manager,38537,Resigned
+Jessica Johnson,Vegas Retail Hub 69,Waiter,49527,Terminated
+Laura Miller,Sunrise Cafe 34,Cashier,35862,Active
+Sarah Jones,Vegas Retail Hub 8,Technician,87426,Resigned
+Emily Smith,Vegas Retail Hub 47,Driver,52531,Terminated
+Jane Williams,Elite Consulting 77,Waiter,59433,Resigned
+John Jones,Vegas Retail Hub 64,Cashier,63350,Active
+Michael Garcia,Vegas Retail Hub 36,Waiter,64925,Terminated
+John Garcia,Elite Consulting 99,Driver,91877,Active
+Jessica Miller,Elite Consulting 71,Manager,94944,Terminated
+Robert Williams,Sunrise Cafe 89,Accountant,75902,Active
+David Brown,QuickFix Auto 14,Cashier,56386,Resigned
+Robert Jones,QuickFix Auto 10,Driver,55656,Terminated
+Emily Martinez,Sunrise Cafe 32,Cashier,64728,Resigned
+Sarah Martinez,QuickFix Auto 58,Technician,38416,Terminated
+Robert Williams,Vegas Retail Hub 61,Manager,43204,Active
+Emily Davis,Sunrise Cafe 18,Accountant,92077,Resigned
+Emily Davis,Elite Consulting 65,Manager,93110,Resigned
+Jane Smith,Silver State Contractors 53,Driver,92434,Terminated
+Laura Johnson,Vegas Retail Hub 65,Manager,94277,Active
+Michael Brown,Sunrise Cafe 82,Manager,58816,Active
+Daniel Brown,QuickFix Auto 29,Driver,44935,Terminated
+John Williams,Sunrise Cafe 12,Accountant,42385,Terminated
+Emily Hernandez,Sunrise Cafe 33,Manager,53547,Terminated
+Daniel Davis,QuickFix Auto 52,Manager,59309,Terminated
+David Davis,Vegas Retail Hub 62,Driver,73715,Active
+Laura Smith,Vegas Retail Hub 33,Cashier,98207,Terminated
+Sarah Hernandez,Elite Consulting 80,Technician,53181,Active
+Sarah Williams,Sunrise Cafe 57,Cashier,96475,Resigned
+Jessica Smith,Vegas Retail Hub 5,Driver,39630,Resigned
+Jane Davis,Vegas Retail Hub 72,Waiter,39499,Active
+Michael Williams,Sunrise Cafe 47,Driver,53546,Resigned
+Laura Williams,Elite Consulting 76,Waiter,46645,Resigned
+Sarah Brown,Sunrise Cafe 80,Cashier,94472,Terminated
+Michael Brown,Silver State Contractors 87,Waiter,98683,Active
+Sarah Williams,Silver State Contractors 95,Cashier,79332,Terminated
+Laura Garcia,QuickFix Auto 21,Manager,86907,Active
+Michael Johnson,Elite Consulting 80,Driver,93426,Active
+Jane Johnson,Sunrise Cafe 2,Manager,86783,Active
+David Jones,Sunrise Cafe 35,Manager,59370,Active
+Jessica Brown,Elite Consulting 42,Waiter,91661,Active
+Daniel Hernandez,Silver State Contractors 7,Technician,77836,Resigned
+Emily Martinez,Sunrise Cafe 56,Cashier,47291,Terminated
+Jane Garcia,Sunrise Cafe 58,Technician,81974,Active
+Michael Jones,Elite Consulting 52,Cashier,53393,Terminated
+Sarah Martinez,QuickFix Auto 45,Accountant,68810,Active
+Jane Davis,QuickFix Auto 6,Technician,84332,Active
+Robert Davis,Silver State Contractors 80,Accountant,46184,Terminated
+David Johnson,Elite Consulting 38,Cashier,31206,Terminated
+Emily Miller,Vegas Retail Hub 27,Accountant,47232,Resigned
+Emily Williams,Vegas Retail Hub 28,Technician,55655,Active
+Robert Hernandez,Vegas Retail Hub 67,Cashier,70558,Active
+Daniel Martinez,QuickFix Auto 96,Cashier,59633,Active
+David Williams,QuickFix Auto 34,Accountant,74342,Resigned
+John Miller,Elite Consulting 50,Manager,55063,Active
+Sarah Davis,Elite Consulting 44,Manager,91606,Terminated
+Robert Martinez,QuickFix Auto 1,Cashier,74665,Terminated
+Daniel Jones,QuickFix Auto 88,Accountant,92575,Resigned
+Jessica Smith,Silver State Contractors 76,Driver,81149,Active
+Jessica Hernandez,Silver State Contractors 59,Technician,73396,Resigned
+Emily Johnson,Vegas Retail Hub 84,Waiter,44025,Active
+John Jones,Sunrise Cafe 58,Cashier,70887,Terminated
+Laura Martinez,Sunrise Cafe 2,Cashier,72910,Terminated
+John Jones,QuickFix Auto 59,Driver,45299,Terminated
+Daniel Martinez,QuickFix Auto 43,Driver,82190,Active
+Laura Martinez,Silver State Contractors 99,Cashier,33020,Resigned
+Robert Jones,Silver State Contractors 40,Driver,69209,Terminated
+Emily Williams,Sunrise Cafe 24,Cashier,54757,Resigned
+Jessica Garcia,Elite Consulting 41,Waiter,74539,Active
+Laura Davis,Sunrise Cafe 1,Manager,47370,Active
+Daniel Jones,Silver State Contractors 40,Waiter,51932,Active
+Jessica Garcia,QuickFix Auto 21,Driver,52197,Active
+Daniel Miller,QuickFix Auto 4,Cashier,48115,Active
+David Hernandez,Vegas Retail Hub 97,Accountant,78136,Active
+John Martinez,QuickFix Auto 54,Manager,64443,Terminated
+Laura Brown,Sunrise Cafe 96,Technician,46073,Active
+Michael Davis,QuickFix Auto 43,Waiter,92748,Active
+Jane Miller,Elite Consulting 97,Accountant,39470,Resigned
+Robert Johnson,Vegas Retail Hub 42,Technician,67407,Resigned
+Daniel Miller,Silver State Contractors 5,Driver,32004,Active
+Emily Martinez,Vegas Retail Hub 65,Accountant,54209,Active
+Jane Williams,Elite Consulting 10,Accountant,82755,Resigned
+Jane Williams,QuickFix Auto 83,Technician,97853,Active
+Laura Smith,QuickFix Auto 19,Cashier,52162,Terminated
+Sarah Jones,Silver State Contractors 44,Driver,66271,Terminated
+Emily Davis,Sunrise Cafe 96,Driver,99691,Resigned
+Michael Garcia,Silver State Contractors 91,Manager,55859,Resigned
+Michael Williams,QuickFix Auto 22,Accountant,87869,Active
+Daniel Brown,QuickFix Auto 93,Cashier,61301,Terminated
+Emily Smith,Elite Consulting 100,Manager,85608,Active
+Robert Johnson,Silver State Contractors 96,Manager,90904,Resigned
+David Miller,QuickFix Auto 94,Cashier,84564,Resigned
+Michael Garcia,Vegas Retail Hub 61,Cashier,48945,Resigned
+Laura Jones,QuickFix Auto 84,Accountant,71942,Terminated
+John Miller,Sunrise Cafe 2,Accountant,47069,Active
+Michael Martinez,Vegas Retail Hub 13,Accountant,39033,Active
+John Martinez,Silver State Contractors 92,Driver,59659,Resigned
+Jane Johnson,Sunrise Cafe 31,Technician,46760,Active
+Robert Johnson,Elite Consulting 65,Accountant,56718,Active
+David Smith,Silver State Contractors 38,Technician,55899,Resigned
+Sarah Johnson,QuickFix Auto 76,Driver,88573,Terminated
+John Davis,Elite Consulting 64,Cashier,45086,Resigned
+Michael Johnson,Sunrise Cafe 95,Manager,64478,Terminated
+Laura Johnson,Silver State Contractors 19,Cashier,55047,Terminated
+Sarah Smith,Sunrise Cafe 10,Technician,42881,Resigned
+John Jones,Sunrise Cafe 57,Cashier,55973,Resigned
+Laura Jones,Vegas Retail Hub 90,Manager,83152,Active
+Emily Hernandez,Sunrise Cafe 29,Accountant,66425,Resigned
+Jessica Miller,Vegas Retail Hub 23,Driver,78415,Terminated
+John Williams,QuickFix Auto 86,Manager,62455,Active
+Daniel Martinez,QuickFix Auto 81,Accountant,45060,Terminated
+John Smith,Silver State Contractors 79,Driver,70157,Resigned
+Daniel Hernandez,Silver State Contractors 55,Driver,94720,Terminated
+Emily Garcia,Elite Consulting 87,Accountant,87725,Terminated
+Laura Johnson,QuickFix Auto 44,Waiter,67329,Resigned
+Sarah Johnson,QuickFix Auto 18,Cashier,75732,Active
+Emily Hernandez,Sunrise Cafe 41,Technician,59691,Active
+David Johnson,Silver State Contractors 78,Cashier,39499,Active
+John Brown,QuickFix Auto 10,Waiter,44987,Resigned
+Laura Davis,Silver State Contractors 91,Accountant,59294,Terminated
+John Williams,QuickFix Auto 37,Technician,56702,Active
+Robert Johnson,Vegas Retail Hub 2,Manager,38018,Active
+John Jones,Elite Consulting 47,Driver,93354,Resigned
+Jane Hernandez,Silver State Contractors 40,Waiter,54499,Terminated
+David Garcia,QuickFix Auto 62,Manager,34861,Resigned
+Michael Jones,Vegas Retail Hub 73,Cashier,97835,Active
+David Williams,Sunrise Cafe 31,Manager,46899,Terminated
+Sarah Brown,Elite Consulting 55,Driver,87916,Active
+Laura Smith,Silver State Contractors 45,Accountant,64040,Terminated
+Jane Brown,Vegas Retail Hub 67,Waiter,84854,Active
+Jane Brown,Vegas Retail Hub 27,Waiter,73829,Resigned
+David Smith,Vegas Retail Hub 49,Accountant,49772,Resigned
+Jane Brown,Silver State Contractors 9,Accountant,48456,Active
+Jane Jones,Sunrise Cafe 51,Technician,95980,Terminated
+David Miller,Silver State Contractors 26,Accountant,98210,Resigned
+Jane Martinez,Sunrise Cafe 53,Driver,53227,Active
+John Smith,Sunrise Cafe 94,Manager,53230,Terminated
+Laura Jones,Vegas Retail Hub 33,Technician,33845,Active
+Robert Smith,Sunrise Cafe 37,Cashier,85767,Active
+Sarah Johnson,Elite Consulting 79,Waiter,98778,Resigned
+Robert Williams,Sunrise Cafe 68,Accountant,61433,Resigned
+Daniel Williams,Silver State Contractors 82,Technician,64539,Resigned
+Michael Martinez,Vegas Retail Hub 78,Manager,87463,Resigned
+Laura Miller,QuickFix Auto 2,Cashier,36349,Terminated
+Jessica Williams,QuickFix Auto 82,Accountant,92551,Terminated
+Sarah Hernandez,Silver State Contractors 66,Driver,89012,Resigned
+Michael Miller,Elite Consulting 73,Manager,82999,Terminated
+Jessica Davis,QuickFix Auto 30,Waiter,59163,Active
+Jessica Johnson,Sunrise Cafe 31,Cashier,54067,Active
+Jessica Hernandez,Vegas Retail Hub 53,Manager,84009,Active
+Daniel Williams,Elite Consulting 42,Waiter,63367,Terminated
+Sarah Miller,Vegas Retail Hub 24,Accountant,50863,Resigned
+Jane Jones,Elite Consulting 45,Waiter,94528,Resigned
+Jane Martinez,QuickFix Auto 77,Accountant,31012,Resigned
+Jessica Miller,Sunrise Cafe 14,Driver,85064,Resigned
+Daniel Williams,QuickFix Auto 9,Accountant,45692,Active
+John Johnson,Silver State Contractors 35,Manager,43511,Terminated
+Robert Garcia,Elite Consulting 30,Accountant,92700,Resigned
+Jane Williams,Silver State Contractors 2,Accountant,44410,Terminated
+Daniel Miller,QuickFix Auto 98,Accountant,55556,Terminated
+John Johnson,Elite Consulting 37,Cashier,83222,Active
+Laura Davis,QuickFix Auto 99,Technician,65832,Terminated
+Robert Johnson,QuickFix Auto 44,Driver,49059,Terminated
+John Miller,Vegas Retail Hub 60,Cashier,81837,Active
+Sarah Hernandez,Sunrise Cafe 63,Manager,82910,Resigned
+David Johnson,Silver State Contractors 44,Waiter,44347,Terminated
+Laura Martinez,QuickFix Auto 81,Cashier,75349,Active
+Jane Hernandez,Silver State Contractors 41,Waiter,62060,Resigned
+Laura Williams,QuickFix Auto 82,Cashier,46274,Terminated
+Laura Williams,Sunrise Cafe 75,Waiter,34870,Terminated
+Laura Smith,QuickFix Auto 95,Waiter,37382,Terminated
+Daniel Martinez,Vegas Retail Hub 29,Cashier,65619,Active
+Emily Jones,Sunrise Cafe 5,Cashier,95682,Terminated
+Emily Jones,Vegas Retail Hub 83,Accountant,57238,Resigned
+John Brown,Sunrise Cafe 6,Waiter,49306,Resigned
+Daniel Martinez,Vegas Retail Hub 6,Accountant,94774,Resigned
+Jane Smith,QuickFix Auto 86,Driver,58524,Active
+Sarah Hernandez,Sunrise Cafe 49,Cashier,98041,Active
+Jessica Williams,QuickFix Auto 85,Technician,39960,Resigned
+John Smith,Elite Consulting 100,Driver,63507,Active
+Daniel Williams,Elite Consulting 26,Waiter,55964,Terminated
+Jane Johnson,Vegas Retail Hub 6,Technician,65566,Active
+Laura Jones,QuickFix Auto 32,Waiter,90255,Active
+John Johnson,Silver State Contractors 70,Technician,65407,Terminated
+Michael Smith,QuickFix Auto 78,Driver,55766,Resigned
+Jessica Martinez,Sunrise Cafe 53,Waiter,35386,Resigned
+Jessica Brown,QuickFix Auto 31,Technician,96389,Resigned
+David Smith,Sunrise Cafe 82,Technician,81588,Resigned
+Michael Hernandez,Elite Consulting 16,Cashier,33562,Resigned
+Sarah Smith,Silver State Contractors 14,Manager,51106,Terminated
+Emily Garcia,Sunrise Cafe 96,Manager,66485,Terminated
+Emily Brown,Sunrise Cafe 79,Manager,41383,Resigned
+Emily Williams,Elite Consulting 68,Manager,99939,Terminated
+David Davis,Vegas Retail Hub 43,Technician,30309,Resigned
+Jane Martinez,Elite Consulting 76,Accountant,81478,Resigned
+Emily Williams,Silver State Contractors 36,Cashier,90135,Terminated
+Emily Brown,Vegas Retail Hub 36,Driver,46972,Active
+Jessica Jones,Elite Consulting 8,Manager,44989,Active
+Michael Miller,Vegas Retail Hub 22,Waiter,73499,Terminated
+David Davis,Vegas Retail Hub 24,Waiter,88104,Terminated
+David Martinez,Elite Consulting 31,Cashier,92709,Terminated
+Sarah Smith,QuickFix Auto 56,Manager,38514,Terminated
+David Garcia,Sunrise Cafe 16,Accountant,93581,Active
+Laura Jones,Silver State Contractors 56,Waiter,58189,Terminated
+David Smith,Vegas Retail Hub 87,Manager,36351,Terminated
+David Johnson,Silver State Contractors 60,Manager,59412,Terminated
+Sarah Smith,Vegas Retail Hub 66,Waiter,34433,Terminated
+Daniel Hernandez,Vegas Retail Hub 71,Manager,30804,Resigned
+Laura Miller,Vegas Retail Hub 56,Waiter,82677,Active
+Laura Martinez,Elite Consulting 28,Technician,33870,Active
+Michael Garcia,QuickFix Auto 44,Cashier,46665,Active
+David Miller,Silver State Contractors 85,Cashier,52455,Resigned
+John Jones,Silver State Contractors 63,Manager,91418,Terminated
+David Miller,QuickFix Auto 8,Cashier,53947,Resigned
+Jessica Johnson,Elite Consulting 26,Technician,50824,Terminated
+Michael Miller,Elite Consulting 75,Technician,40996,Active
+Jane Miller,QuickFix Auto 46,Accountant,63318,Resigned
+Jane Williams,Silver State Contractors 68,Manager,37825,Active
+Jessica Brown,Silver State Contractors 80,Driver,77334,Resigned
+Emily Garcia,Elite Consulting 91,Waiter,80368,Active
+Sarah Brown,QuickFix Auto 63,Accountant,83312,Active
+Robert Johnson,Silver State Contractors 35,Manager,62140,Terminated
+Emily Davis,QuickFix Auto 21,Technician,63588,Active
+Jessica Johnson,Vegas Retail Hub 99,Cashier,49755,Terminated
+Laura Martinez,QuickFix Auto 34,Driver,85064,Terminated
+Laura Hernandez,Elite Consulting 82,Cashier,88845,Terminated
+Jessica Hernandez,QuickFix Auto 30,Driver,84091,Resigned
+Laura Johnson,QuickFix Auto 28,Manager,43569,Active
+Laura Williams,Vegas Retail Hub 99,Technician,79701,Terminated
+Robert Martinez,Sunrise Cafe 98,Waiter,75907,Active
+Sarah Hernandez,QuickFix Auto 36,Manager,93868,Resigned
+Jane Martinez,Sunrise Cafe 36,Cashier,51779,Terminated
+Emily Johnson,QuickFix Auto 55,Technician,32112,Resigned
+Emily Johnson,QuickFix Auto 52,Accountant,66759,Terminated
+John Hernandez,Silver State Contractors 55,Driver,59799,Resigned
+Jessica Martinez,QuickFix Auto 60,Accountant,57428,Terminated
+Emily Miller,Vegas Retail Hub 17,Manager,39724,Terminated
+Jessica Davis,QuickFix Auto 36,Waiter,52951,Resigned
+Robert Garcia,Silver State Contractors 57,Manager,56417,Resigned
+Jane Martinez,Vegas Retail Hub 100,Manager,36664,Resigned
+Sarah Smith,Sunrise Cafe 78,Accountant,33019,Resigned
+Daniel Martinez,Sunrise Cafe 85,Waiter,44909,Resigned
+Sarah Smith,QuickFix Auto 26,Driver,40208,Active
+David Davis,Elite Consulting 8,Manager,98787,Resigned
+Michael Johnson,Silver State Contractors 92,Driver,98146,Resigned
+Sarah Smith,Sunrise Cafe 56,Driver,33291,Resigned
+Robert Garcia,Silver State Contractors 59,Manager,84909,Active
+Robert Jones,Sunrise Cafe 1,Waiter,79776,Terminated
+David Brown,Elite Consulting 9,Accountant,40134,Resigned
+Michael Miller,QuickFix Auto 46,Driver,59597,Active
+Sarah Martinez,Elite Consulting 98,Cashier,51211,Active
+Daniel Garcia,Vegas Retail Hub 63,Driver,83708,Active
+Jessica Williams,Elite Consulting 94,Driver,85687,Active
+David Smith,Vegas Retail Hub 13,Cashier,33233,Active
+Sarah Davis,Vegas Retail Hub 18,Waiter,84091,Terminated
+Sarah Brown,QuickFix Auto 16,Technician,73169,Active
+Michael Hernandez,Vegas Retail Hub 8,Technician,94781,Active
+Sarah Hernandez,Vegas Retail Hub 49,Technician,77976,Resigned
+Jessica Davis,Silver State Contractors 80,Manager,54279,Resigned
+Sarah Williams,Silver State Contractors 20,Driver,65165,Resigned
+Jessica Smith,Vegas Retail Hub 11,Waiter,62692,Terminated
+David Brown,Silver State Contractors 90,Cashier,32552,Terminated
+Jane Miller,Elite Consulting 51,Waiter,48090,Resigned
+Jessica Garcia,Vegas Retail Hub 73,Manager,73459,Active
+Michael Garcia,Elite Consulting 5,Driver,32820,Terminated
+David Garcia,Elite Consulting 71,Waiter,78583,Terminated
+Michael Brown,Vegas Retail Hub 94,Waiter,95605,Resigned
+Jessica Miller,Sunrise Cafe 94,Waiter,32097,Active
+Jessica Martinez,Elite Consulting 87,Accountant,77156,Terminated
+Jessica Garcia,Sunrise Cafe 43,Manager,97171,Resigned
+Laura Smith,Sunrise Cafe 17,Driver,81640,Terminated
+Sarah Garcia,QuickFix Auto 1,Waiter,94788,Terminated
+Robert Brown,Sunrise Cafe 12,Driver,97104,Resigned
+Robert Martinez,Sunrise Cafe 73,Manager,99747,Active
+Jessica Martinez,Vegas Retail Hub 21,Cashier,52453,Resigned
+Jane Smith,QuickFix Auto 76,Cashier,77322,Terminated
+Emily Miller,QuickFix Auto 72,Technician,40794,Active
+Michael Smith,QuickFix Auto 20,Waiter,37528,Terminated
+Jane Johnson,Silver State Contractors 1,Technician,62579,Resigned
+Jane Jones,Sunrise Cafe 41,Cashier,88023,Resigned
+David Brown,Silver State Contractors 88,Waiter,91304,Resigned
+David Davis,Sunrise Cafe 54,Manager,51867,Terminated
+John Martinez,Elite Consulting 8,Accountant,50402,Active
+Michael Jones,Silver State Contractors 71,Accountant,79610,Resigned
+Sarah Smith,Vegas Retail Hub 41,Waiter,36137,Resigned
+Michael Hernandez,Vegas Retail Hub 23,Driver,71771,Active
+John Johnson,Vegas Retail Hub 34,Accountant,93504,Resigned
+Jane Brown,Elite Consulting 71,Waiter,82610,Resigned
+Laura Martinez,Vegas Retail Hub 61,Technician,90724,Active
+Jane Garcia,Vegas Retail Hub 90,Manager,47426,Active
+Michael Hernandez,Vegas Retail Hub 46,Cashier,52873,Resigned
+Jane Johnson,Silver State Contractors 90,Cashier,48260,Active
+Emily Hernandez,QuickFix Auto 97,Waiter,77703,Terminated
+Emily Jones,QuickFix Auto 91,Cashier,83689,Resigned
+Robert Martinez,Silver State Contractors 65,Accountant,34096,Active
+Michael Jones,Vegas Retail Hub 64,Technician,80337,Terminated
+Daniel Williams,Silver State Contractors 73,Cashier,70913,Active
+John Miller,Silver State Contractors 27,Accountant,83625,Terminated
+Sarah Jones,Elite Consulting 24,Manager,39908,Active
+Laura Williams,QuickFix Auto 33,Cashier,87716,Resigned
+Michael Williams,Sunrise Cafe 61,Cashier,65595,Terminated
+David Martinez,Elite Consulting 35,Cashier,87484,Resigned
+Michael Jones,Sunrise Cafe 55,Technician,87030,Active
+Sarah Hernandez,QuickFix Auto 95,Cashier,40516,Terminated
+Daniel Johnson,QuickFix Auto 96,Driver,78761,Active
+Laura Brown,Vegas Retail Hub 33,Accountant,51825,Terminated
+Laura Brown,Silver State Contractors 40,Technician,99425,Terminated
+Michael Williams,Silver State Contractors 92,Technician,33466,Active
+Michael Martinez,QuickFix Auto 40,Technician,33535,Terminated
+Michael Davis,Sunrise Cafe 27,Waiter,63211,Terminated
+Jane Brown,Vegas Retail Hub 51,Driver,90697,Resigned
+John Jones,Vegas Retail Hub 98,Manager,47169,Active
+David Garcia,Vegas Retail Hub 71,Accountant,69842,Resigned
+David Johnson,Elite Consulting 99,Accountant,69677,Active
+Sarah Smith,Silver State Contractors 6,Cashier,80774,Terminated
+David Martinez,Elite Consulting 48,Cashier,40651,Active
+David Hernandez,Elite Consulting 73,Technician,63171,Active
+Robert Smith,Elite Consulting 92,Cashier,48217,Resigned
+John Brown,QuickFix Auto 85,Technician,96729,Terminated
+Robert Davis,Silver State Contractors 3,Cashier,47793,Terminated
+Michael Garcia,QuickFix Auto 28,Cashier,77426,Active
+Michael Miller,Elite Consulting 52,Waiter,76254,Resigned
+Daniel Davis,Elite Consulting 63,Waiter,41541,Terminated
+Daniel Smith,Sunrise Cafe 63,Driver,84207,Active
+Jane Brown,Vegas Retail Hub 40,Driver,75161,Terminated
+Michael Jones,QuickFix Auto 69,Manager,84973,Resigned
+Michael Brown,Vegas Retail Hub 96,Waiter,94380,Terminated
+Daniel Jones,QuickFix Auto 63,Waiter,88405,Active
+David Davis,Elite Consulting 17,Cashier,51352,Resigned
+John Martinez,Vegas Retail Hub 11,Driver,78326,Resigned
+Jane Jones,Vegas Retail Hub 12,Waiter,79556,Resigned
+John Miller,Elite Consulting 73,Cashier,75609,Terminated
+Michael Garcia,QuickFix Auto 72,Technician,33729,Terminated
+David Davis,Vegas Retail Hub 7,Manager,70728,Active
+Daniel Davis,Vegas Retail Hub 98,Accountant,77273,Resigned
+Daniel Brown,Vegas Retail Hub 18,Manager,59820,Terminated
+Jane Miller,Sunrise Cafe 81,Waiter,85245,Resigned
+Sarah Smith,QuickFix Auto 64,Technician,37356,Resigned
+Sarah Johnson,Vegas Retail Hub 45,Driver,88853,Resigned
+Jessica Miller,Vegas Retail Hub 55,Driver,93597,Terminated
+Jane Garcia,Vegas Retail Hub 66,Accountant,52901,Resigned
+Michael Williams,Sunrise Cafe 93,Accountant,56811,Resigned
+Laura Hernandez,Sunrise Cafe 22,Waiter,70915,Active
+Robert Williams,Silver State Contractors 57,Driver,91895,Active
+Jessica Hernandez,QuickFix Auto 3,Driver,56283,Active
+John Hernandez,Silver State Contractors 89,Cashier,58472,Terminated
+Michael Smith,Silver State Contractors 19,Waiter,31182,Terminated
+Michael Martinez,QuickFix Auto 69,Waiter,93165,Active
+Jessica Smith,Silver State Contractors 31,Accountant,45432,Active
+Michael Brown,Silver State Contractors 79,Manager,32138,Active
+Jane Davis,QuickFix Auto 74,Driver,84417,Terminated
+Jane Smith,Sunrise Cafe 77,Cashier,88290,Active
+Laura Martinez,QuickFix Auto 22,Waiter,88734,Terminated
+John Davis,Elite Consulting 85,Driver,92497,Active
+David Hernandez,QuickFix Auto 55,Cashier,83549,Terminated
+David Hernandez,Elite Consulting 25,Waiter,74288,Resigned
+Sarah Williams,Sunrise Cafe 77,Technician,91132,Resigned
+Jane Williams,Elite Consulting 13,Cashier,91450,Resigned
+Jane Garcia,Vegas Retail Hub 39,Cashier,80968,Terminated
+David Brown,Sunrise Cafe 36,Cashier,40574,Terminated
+Jessica Smith,QuickFix Auto 64,Driver,71967,Active
+John Johnson,Elite Consulting 71,Cashier,94189,Terminated
+Jessica Martinez,Sunrise Cafe 44,Technician,90525,Terminated
+Emily Hernandez,QuickFix Auto 66,Manager,36952,Resigned
+Robert Jones,Elite Consulting 18,Cashier,98981,Active
+John Johnson,Vegas Retail Hub 33,Technician,99742,Active
+Jane Davis,Silver State Contractors 100,Accountant,55847,Resigned
+Robert Hernandez,Silver State Contractors 44,Driver,55651,Active
+Sarah Jones,Elite Consulting 38,Manager,81080,Terminated
+Jane Williams,Vegas Retail Hub 17,Driver,67700,Active
+Sarah Hernandez,Silver State Contractors 15,Manager,98838,Terminated
+Jane Johnson,Elite Consulting 47,Driver,80754,Terminated
+Daniel Garcia,Elite Consulting 9,Accountant,93893,Active
+Robert Davis,Silver State Contractors 16,Cashier,57743,Active
+Michael Williams,QuickFix Auto 85,Waiter,42198,Resigned
+David Davis,Silver State Contractors 76,Waiter,43067,Active
+Jessica Davis,Elite Consulting 75,Accountant,99510,Active
+Michael Williams,Elite Consulting 90,Cashier,51896,Resigned
+David Martinez,QuickFix Auto 89,Technician,46317,Resigned
+Robert Martinez,QuickFix Auto 15,Driver,87229,Resigned
+Daniel Miller,Vegas Retail Hub 22,Manager,59817,Active
+Sarah Davis,Elite Consulting 65,Manager,61836,Terminated
+John Brown,QuickFix Auto 56,Driver,92603,Resigned
+Robert Hernandez,Silver State Contractors 46,Manager,32369,Resigned
+Michael Davis,Sunrise Cafe 61,Driver,94979,Active
+Sarah Jones,Sunrise Cafe 49,Driver,69639,Active
+Michael Williams,Elite Consulting 52,Accountant,99260,Resigned
+Jessica Miller,Sunrise Cafe 12,Waiter,33018,Terminated
+Laura Miller,Vegas Retail Hub 62,Waiter,43525,Resigned
+Sarah Johnson,Silver State Contractors 72,Cashier,86226,Active
+Robert Johnson,Elite Consulting 47,Driver,99170,Terminated
+David Jones,Elite Consulting 80,Manager,85373,Resigned
+Jessica Garcia,Vegas Retail Hub 9,Waiter,85969,Active
+David Smith,Silver State Contractors 19,Manager,66318,Terminated
+Laura Garcia,Silver State Contractors 9,Manager,48411,Terminated
+Jane Smith,Silver State Contractors 60,Cashier,77642,Active
+Robert Martinez,Sunrise Cafe 66,Manager,88964,Terminated
+Sarah Garcia,Vegas Retail Hub 72,Technician,43524,Terminated
+Jessica Smith,Vegas Retail Hub 16,Technician,65426,Resigned
+Emily Miller,Vegas Retail Hub 6,Technician,39587,Active
+Jane Williams,QuickFix Auto 79,Accountant,63922,Active
+Jane Hernandez,Vegas Retail Hub 71,Cashier,64684,Active
+Jessica Jones,Sunrise Cafe 30,Driver,55672,Terminated
+Laura Smith,Silver State Contractors 91,Manager,68039,Active
+Michael Davis,Sunrise Cafe 76,Waiter,89623,Resigned
+Jessica Miller,Elite Consulting 94,Technician,95917,Active
+Robert Brown,Sunrise Cafe 19,Waiter,88552,Active
+Jessica Williams,QuickFix Auto 60,Manager,36562,Resigned
+Sarah Williams,Elite Consulting 52,Cashier,72083,Terminated
+Laura Williams,Vegas Retail Hub 66,Driver,82291,Terminated
+Daniel Williams,Vegas Retail Hub 34,Cashier,46084,Active
+Jane Brown,Silver State Contractors 69,Manager,36733,Resigned
+Emily Garcia,Vegas Retail Hub 98,Cashier,69293,Active
+Sarah Jones,Vegas Retail Hub 90,Accountant,50040,Terminated
+Sarah Martinez,Silver State Contractors 24,Driver,86598,Terminated
+Michael Garcia,Silver State Contractors 74,Accountant,81334,Terminated
+Sarah Jones,Elite Consulting 41,Waiter,65255,Terminated
+Michael Garcia,Sunrise Cafe 33,Manager,49694,Resigned
+Sarah Davis,QuickFix Auto 84,Manager,91045,Terminated
+Michael Hernandez,Vegas Retail Hub 53,Technician,58403,Active
+Robert Hernandez,Sunrise Cafe 100,Manager,30157,Active
+Sarah Williams,QuickFix Auto 3,Accountant,72661,Terminated
+Laura Smith,Elite Consulting 20,Manager,53447,Active
+John Johnson,Elite Consulting 37,Accountant,31910,Terminated
+Laura Brown,Vegas Retail Hub 39,Waiter,56809,Active
+Emily Williams,Vegas Retail Hub 53,Manager,81602,Active

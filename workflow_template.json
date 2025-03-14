@@ -1,0 +1,249 @@
+{
+  "template_version": "0.0.1",
+  "workflow_template": {
+    "id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+    "name": "Template: Civilian Las Vegas PPP Fraud Identification",
+    "process": "hierarchical",
+    "agent_template_ids": [
+      "90d01864-2a59-4168-808c-013d1fdb7883",
+      "f192b904-b587-4cde-badc-0cee1e7213b0",
+      "d8450f9f-dd18-4fa5-a215-6f8fdd521b5f",
+      "ea1e9ae7-17a2-483d-9c0b-f1b6cf294f6b",
+      "1fe1e98a-ca11-4872-9e63-4872d01289c9"
+    ],
+    "task_template_ids": [
+      "d94b1808-715e-4541-97c7-76a71ed697e9"
+    ],
+    "manager_agent_template_id": "303c633a-bc9c-458d-9385-5d604519c692",
+    "use_default_manager": false,
+    "is_conversational": true,
+    "pre_packaged": false
+  },
+  "agent_templates": [
+    {
+      "id": "d8450f9f-dd18-4fa5-a215-6f8fdd521b5f",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Tax Compliance Agent",
+      "description": "Tax Compliance Agent",
+      "role": "Investigates business tax filings to identify inconsistencies between reported revenue and PPP loan claims.",
+      "backstory": "A tax enforcement analyst who specializes in uncovering financial discrepancies.",
+      "goal": "Retrieve IRS tax records dynamically using the Directory Read Tool from ppp_datasets/Las_Vegas_IRS_Tax_Records.csv.\nUse File Read Tool to extract business tax data.\nCross-check reported revenue against PPP loan amounts:\nBusinesses with high loans but low/no reported revenue\nUnfiled or under-review tax records \nStore flagged inconsistencies and send results to the Fraud Assessment Agent.",
+      "allow_delegation": false,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "tool_template_ids": [
+        "80584440-b42f-4ecf-ac1c-674feae959a7",
+        "7f656ef2-d449-46df-8d65-41c2051e9ab8"
+      ],
+      "pre_packaged": false,
+      "agent_image_path": ""
+    },
+    {
+      "id": "90d01864-2a59-4168-808c-013d1fdb7883",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "PPP Loan Analysis Agent",
+      "description": "PPP Loan Analysis Agent",
+      "role": "Analyzes PPP loan applications for fraud indicators such as excessive loan amounts, multiple loans, and unrealistic employee counts.",
+      "backstory": "A forensic financial analyst specializing in fraud detection by identifying suspicious loan patterns.",
+      "goal": "Retrieve PPP loan data dynamically using the Directory Read Tool from ppp_datasets/PPP_Loans_Over_150K_in_Las_Vegas.csv.\nUse File Read Tool to extract loan records from the CSV.\nIdentify fraud indicators such as:\nZero reported employees but high loan amount\nMultiple loans under similar business names\nMismatch between reported revenue and loan size \nStore detected fraud patterns in context and pass results to the Fraud Assessment Agent.",
+      "allow_delegation": false,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "tool_template_ids": [
+        "f84f6a73-c3fe-46df-8cdf-1c124c972730",
+        "2750aacf-a60a-4387-bfb9-a6aef6083134"
+      ],
+      "pre_packaged": false,
+      "agent_image_path": ""
+    },
+    {
+      "id": "ea1e9ae7-17a2-483d-9c0b-f1b6cf294f6b",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Employment Verification Agent",
+      "description": "Employment Verification Agent",
+      "role": "Verifies that businesses receiving PPP loans actually employ people.",
+      "backstory": "Ensures businesses accurately report employees by cross-referencing employee records.",
+      "goal": "Retrieve employee records dynamically using the Directory Read Tool from ppp_datasets/Las_Vegas_Employee_Records.csv.\nUse File Read Tool to extract employment data.\nCheck if businesses that claimed employees in PPP loans actually have employees in records:\nBusinesses with zero employees but large PPP loans\nEmployee count mismatch \nStore flagged cases and send results to the Fraud Assessment Agent.",
+      "allow_delegation": false,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "tool_template_ids": [
+        "f056df8a-7eac-4b1e-b919-133cfa043eeb",
+        "52226839-2868-4ae9-bfcf-24a135bd1e77"
+      ],
+      "pre_packaged": false,
+      "agent_image_path": ""
+    },
+    {
+      "id": "303c633a-bc9c-458d-9385-5d604519c692",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Query Handler Agent",
+      "description": "Query Handler Agent",
+      "role": "Accepts an individual\u2019s name or business name as input, retrieves relevant data using the Directory Read Tool & File Read Tool, and assigns tasks to the appropriate fraud analysis agents.",
+      "backstory": "An AI-driven digital investigator that dynamically reads structured datasets to detect fraud patterns and direct queries to specialized agents.",
+      "goal": "Retrieve relevant data files dynamically using the Directory Read Tool from ppp_datasets/.\nUse File Read Tool to extract content from each dataset (PPP Loans, Business Licenses, IRS Tax Records, Employee Records).\nParse and store the extracted data in context for fraud analysis agents.\nAssign tasks to the PPP Loan Analysis Agent, Business License Verification Agent, Tax Compliance Agent, Employment Verification Agent, and Fraud Assessment Agent for deeper evaluation.",
+      "allow_delegation": true,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "pre_packaged": false
+    },
+    {
+      "id": "1fe1e98a-ca11-4872-9e63-4872d01289c9",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Fraud Assessment Agent",
+      "description": "Fraud Assessment Agent",
+      "role": "Aggregates findings from all other agents to compute a fraud likelihood score and provide a final fraud risk assessment.",
+      "backstory": "An AI-driven fraud detection system that compiles evidence from multiple sources.",
+      "goal": "Retrieve findings from all analysis agents.\nAssign fraud scores based on:\nBusiness license status\nTax compliance\nEmployee verification\nPPP loan fraud indicators\n\nGenerate a structured fraud risk report.\nReturn a final fraud assessment with:\n- Risk level (Low/Moderate/High)\n- Key fraud indicators\n- Recommended actions",
+      "allow_delegation": false,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "tool_template_ids": [
+        "ab5ad9d0-6645-4a1f-81ba-8fe165e2f825",
+        "0e5cbae5-89d7-40b3-aacd-0822d3d36e7d"
+      ],
+      "pre_packaged": false,
+      "agent_image_path": ""
+    },
+    {
+      "id": "f192b904-b587-4cde-badc-0cee1e7213b0",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Business License Verification Agent",
+      "description": "Business License Verification Agent",
+      "role": "Checks whether a business has a valid, expired, or revoked license and flags discrepancies.",
+      "backstory": "Works with municipal datasets to ensure businesses comply with licensing regulations.",
+      "goal": "Retrieve business license data dynamically using the Directory Read Tool from ppp_datasets/Las_Vegas_Business_Licenses.csv.\nUse File Read Tool to extract business license records.\nIdentify businesses operating with expired or revoked licenses and flag them.\nPass findings to the Fraud Assessment Agent.",
+      "allow_delegation": false,
+      "verbose": false,
+      "cache": false,
+      "temperature": 0.10000000149011612,
+      "max_iter": 0,
+      "tool_template_ids": [
+        "69e50abe-ddb8-4025-b9e0-6c01b286af54",
+        "efb1b48d-7c9a-43c9-9ecc-f8bb9192401f"
+      ],
+      "pre_packaged": false,
+      "agent_image_path": ""
+    }
+  ],
+  "tool_templates": [
+    {
+      "id": "0e5cbae5-89d7-40b3-aacd-0822d3d36e7d",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Directory Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/directory_read_tool_qQqX0So",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/directory_read_tool_qQqX0So_icon.png"
+    },
+    {
+      "id": "2750aacf-a60a-4387-bfb9-a6aef6083134",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Directory Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/directory_read_tool_YkSC2lSZ",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/directory_read_tool_YkSC2lSZ_icon.png"
+    },
+    {
+      "id": "efb1b48d-7c9a-43c9-9ecc-f8bb9192401f",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "File Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/file_read_tool_Np5G8zCg",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/file_read_tool_Np5G8zCg_icon.png"
+    },
+    {
+      "id": "52226839-2868-4ae9-bfcf-24a135bd1e77",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Directory Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/directory_read_tool_DfTVvi0l",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/directory_read_tool_DfTVvi0l_icon.png"
+    },
+    {
+      "id": "7f656ef2-d449-46df-8d65-41c2051e9ab8",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Directory Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/directory_read_tool_1y74c9V",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/directory_read_tool_1y74c9V_icon.png"
+    },
+    {
+      "id": "69e50abe-ddb8-4025-b9e0-6c01b286af54",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "Directory Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/directory_read_tool_PN4tDopM",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/directory_read_tool_PN4tDopM_icon.png"
+    },
+    {
+      "id": "f056df8a-7eac-4b1e-b919-133cfa043eeb",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "File Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/file_read_tool_Hn5eMIiH",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/file_read_tool_Hn5eMIiH_icon.png"
+    },
+    {
+      "id": "ab5ad9d0-6645-4a1f-81ba-8fe165e2f825",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "File Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/file_read_tool_TWu88vcO",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/file_read_tool_TWu88vcO_icon.png"
+    },
+    {
+      "id": "f84f6a73-c3fe-46df-8cdf-1c124c972730",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "File Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/file_read_tool_mV81NN34",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/file_read_tool_mV81NN34_icon.png"
+    },
+    {
+      "id": "80584440-b42f-4ecf-ac1c-674feae959a7",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "name": "File Read Tool",
+      "python_code_file_name": "tool.py",
+      "python_requirements_file_name": "requirements.txt",
+      "source_folder_path": "studio-data/tool_templates/file_read_tool_hMSCpgBv",
+      "pre_built": false,
+      "tool_image_path": "studio-data/dynamic_assets/tool_template_icons/file_read_tool_hMSCpgBv_icon.png"
+    }
+  ],
+  "task_templates": [
+    {
+      "id": "d94b1808-715e-4541-97c7-76a71ed697e9",
+      "workflow_template_id": "ef3e60f2-4aeb-41d8-8000-b893b8bf440a",
+      "description": "Respond to the user's message: '{user_input}'. Conversation history:\n{context}.",
+      "expected_output": "Provide a response that aligns with the conversation history."
+    }
+  ]
+}
